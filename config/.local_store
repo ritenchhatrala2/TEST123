@@ -1,0 +1,18 @@
+{
+    "TestClass.cls": {
+        "id": "01p0b000006xLM0AAM",
+        "name": "TestClass",
+        "createdDate": "2018-09-19T21:57:45.000+0000",
+        "createdById": "0050b000005JCLAAA4",
+        "namespacePrefix": null,
+        "lastModifiedById": "0050b000005JCLAAA4",
+        "lastModifiedDate": "2018-09-19T22:03:53.000+0000",
+        "fullName": "TestClass",
+        "fileName": "unpackaged/classes/TestClass.cls",
+        "createdByName": "Riten Chhatrala",
+        "lastModifiedByName": "Riten Chhatrala",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    }
+}

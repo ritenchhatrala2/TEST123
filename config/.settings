@@ -1,0 +1,19 @@
+{
+    "projectName": "TestProjectMM",
+    "username": "ritendev@cern1.com",
+    "id": "2e2d4c10-bc56-11e8-b053-a5b898ed240c",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://cern1-dev-ed.my.salesforce.com",
+    "workspace": "/Users/rc063044/mm_workspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "CustomMetadata",
+        "CustomObject",
+        "StaticResource"
+    ]
+}
